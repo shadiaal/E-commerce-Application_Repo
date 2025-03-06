@@ -45,7 +45,7 @@ Navigate to the backend folder and restore the NuGet packages:
 - ```cd backend```
 - ```dotnet restore```
 Run the ASP.NET Core API server:
-```dotnet run```
+- ```dotnet run```
 This will start the API on http://localhost:5129/.
 
 ### 4. Access the Application
