@@ -33,20 +33,20 @@ Clone this repository to your local machine:
 
 
 ### 2. Frontend Setup (Angular)
-- Navigate to the frontend folder and install dependencies:
+ Navigate to the frontend folder and install dependencies:
 - ```cd frontend```
 - ```npm install```
-- Run the Angular development server:
+  Run the Angular development server:
 - ```ng serve```
-- This will start the Angular app on http://localhost:4200/.
+  This will start the Angular app on http://localhost:4200/.
 
 ### 3. Backend Setup (ASP.NET Core)
-- Navigate to the backend folder and restore the NuGet packages:
+Navigate to the backend folder and restore the NuGet packages:
 - ```cd backend```
 - ```dotnet restore```
-- Run the ASP.NET Core API server:
+Run the ASP.NET Core API server:
 ```dotnet run```
-- This will start the API on http://localhost:5129/.
+This will start the API on http://localhost:5129/.
 
 ### 4. Access the Application
 - Open http://localhost:4200/ in your browser to view the Angular frontend.
