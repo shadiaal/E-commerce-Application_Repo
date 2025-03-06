@@ -33,20 +33,20 @@ Clone this repository to your local machine:
 
 
 ### 2. Frontend Setup (Angular)
-Navigate to the frontend folder and install dependencies:
-```cd frontend```
-```npm install```
-Run the Angular development server:
-```ng serve```
-This will start the Angular app on http://localhost:4200/.
+- Navigate to the frontend folder and install dependencies:
+- ```cd frontend```
+- ```npm install```
+- Run the Angular development server:
+- ```ng serve```
+- This will start the Angular app on http://localhost:4200/.
 
 ### 3. Backend Setup (ASP.NET Core)
-Navigate to the backend folder and restore the NuGet packages:
-```cd backend```
-```dotnet restore```
-Run the ASP.NET Core API server:
+- Navigate to the backend folder and restore the NuGet packages:
+- ```cd backend```
+- ```dotnet restore```
+- Run the ASP.NET Core API server:
 ```dotnet run```
-This will start the API on http://localhost:5129/.
+- This will start the API on http://localhost:5129/.
 
 ### 4. Access the Application
 - Open http://localhost:4200/ in your browser to view the Angular frontend.
@@ -60,7 +60,7 @@ This will start the API on http://localhost:5129/.
 - DELETE /api/cart/clear – Clear all items in the cart.
 
 
-Conclusion
+## Conclusion
 This project is a simple but complete e-commerce application that integrates a frontend Angular app with a backend ASP.NET Core API. It includes features such as viewing product lists, viewing product details, adding to a shopping cart, and managing the cart.
 
 
