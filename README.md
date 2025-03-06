@@ -42,22 +42,22 @@ This will start the Angular app on http://localhost:4200/.
 
 ### 3. Backend Setup (ASP.NET Core)
 Navigate to the backend folder and restore the NuGet packages:
-cd backend
-dotnet restore
+```cd backend```
+```dotnet restore```
 Run the ASP.NET Core API server:
-dotnet run
+```dotnet run```
 This will start the API on http://localhost:5129/.
 
 ### 4. Access the Application
-Open http://localhost:4200/ in your browser to view the Angular frontend.
-The backend API will be available at http://localhost:5129/api/products for product data and http://localhost:5129/api/cart for cart operations.
-Backend API Endpoints
-GET /api/products – Retrieve the list of all products.
-GET /api/products/{id} – Retrieve details of a specific product by ID.
-POST /api/cart – Add an item to the cart.
-GET /api/cart – Retrieve all items in the cart.
-DELETE /api/cart/{id} – Remove an item from the cart.
-DELETE /api/cart/clear – Clear all items in the cart.
+- Open http://localhost:4200/ in your browser to view the Angular frontend.
+- The backend API will be available at http://localhost:5129/api/products for product data and http://localhost:5129/api/cart for cart operations.
+- Backend API Endpoints:
+- GET /api/products – Retrieve the list of all products.
+- GET /api/products/{id} – Retrieve details of a specific product by ID.
+- POST /api/cart – Add an item to the cart.
+- GET /api/cart – Retrieve all items in the cart.
+- DELETE /api/cart/{id} – Remove an item from the cart.
+- DELETE /api/cart/clear – Clear all items in the cart.
 
 
 Conclusion
