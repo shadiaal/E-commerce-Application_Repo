@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "t1agUg6W5yXfFzwNRA9sMBQIOeoTCqjP87KmGt/oErjjxq5M2BpeNHl35DjdCKLVyFa+Pkf3oQfwHHuW25YiVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\W3D5_E-commerce-Application\\E-commerce-Application_Repo\\BackEnd\\EcommerceBackend\\EcommerceBackend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\soosh\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.9\\microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
+    "C:\\Users\\soosh\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\soosh\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\soosh\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\soosh\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\soosh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\soosh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
